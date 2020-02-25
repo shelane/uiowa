@@ -7,10 +7,7 @@
 .ighn-person .views-row {
   margin-bottom: 2%;
 }
-.field--name-field-ighn-person-biography.field--type-text-long.field--label-visually_hidden {
-  height: 355px;
-  overflow: auto;
-}
+
 fieldset.js-form-item.js-form-type-select.form-type-select.js-form-item-focus-area-filter.form-item-focus-area-filter.form-group label, fieldset.js-form-item.js-form-type-textfield.form-type-textfield.js-form-item-title.form-item-title.form-group label {
   font-size: 1.2rem;
   font-weight: 600;
@@ -134,12 +131,6 @@ fieldset.js-form-item.js-form-type-select.form-type-select.js-form-item-focus-ar
   padding: 10px 16px;
   min-height: 125px;
   margin: 0;
-  z-index: 10;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  -ms-transition: all 0.3s;
-  -o-transition: all 0.3s;
-  transition: all 0.3s;
 }
 
 .ighn-person .col-md-10{
@@ -193,12 +184,7 @@ fieldset.js-form-item.js-form-type-select.form-type-select.js-form-item-focus-ar
   content: "\f66f";
   margin-right: 2%;
 }
-/* .field.field--name-field-ighn-person-first-name::before {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 500;
-  content: "\f2b9";
-  margin-right: 4%;
-} */
+
 #hover-icon-group {
   display: inline-flex;
   width: 100%;
