@@ -84,7 +84,7 @@ fieldset.js-form-item.js-form-type-select.form-type-select.js-form-item-focus-ar
   margin-left: 7%;
 } */
 .field--name-field-ighn-person-language, .field.field--name-field-ighn-person-global-regions {
-  width: 50%;
+  /* width: 50%; */
   margin: 2% 0%;
 }
 .field.field--name-field-ighn-person-language .field__items .field__item, .field.field--name-field-ighn-person-focus-areas .field__items .field__item, .field.field--name-field-ighn-person-global-regions .field__items .field__item {
@@ -186,7 +186,7 @@ fieldset.js-form-item.js-form-type-select.form-type-select.js-form-item-focus-ar
 }
 
 #hover-icon-group {
-  display: inline-flex;
+  /* display: inline-flex; */
   width: 100%;
 }
 select#edit-focus-area-filter::before {
